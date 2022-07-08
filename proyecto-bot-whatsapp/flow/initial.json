@@ -1,0 +1,78 @@
+[
+    {
+        "keywords":  [
+            "hola",
+            "hola!",
+            "ola",
+            "ole",
+            "inicio",
+            "welcome",
+            "buenos días",
+            "buenas tardes",
+            "buenas noches",
+            "me dieron este número",
+            "venden a crédito",
+            "quisiera saber si venden",
+            "necesito saber",
+            "estan atendiendo",
+            "tienen pedido para hoy"
+        ],
+        "key": "STEP_1"
+    },
+    {
+        "keywords":  [
+            "almuerzo",
+            "plato a la carta"  ],
+        "key": "STEP_2"
+    },
+    {
+        "keywords":  [
+            "almuerzo"
+        ],
+        "key": "STEP_2_1"
+    },
+    {
+        "keywords":  [
+            "plato a la carta"
+        ],
+        "key": "STEP_2_2"
+    },
+    
+    {
+        "keywords":  [
+            "sopa",
+            "patacones rellenos",
+            "ensalada fresca",
+            "chuleta de res",
+            "chuleta de chancho",
+            "lomo saltado",
+            "pechuga a la plancha"
+
+        ],
+        "key": "STEP_3"
+    },
+    {
+        "keywords":  [
+            "para llevar",
+            "para comer ahi",
+            "comer en el local"
+        ],
+        "key": "STEP_4"
+    },
+    {
+        "keywords":  [
+            "para llevar"
+        ],
+        "key": "STEP_4_1"
+    },
+    {
+        "keywords":  [
+            "yape",
+            "pagar a lo que llegue",
+            "aca ",
+            "alo que viene",
+            "alo que llegue"
+        ],
+        "key": "STEP_5"
+    }
+]
